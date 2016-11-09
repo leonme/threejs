@@ -1,0 +1,7 @@
+div#canvas3d{
+	  border: none;
+	  cursor: move;
+	  width: 1400px;
+	  height: 600px;
+	  background-color: #EEEEEE;
+}
